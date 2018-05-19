@@ -1,0 +1,39 @@
+
+
+section.sec1 {
+	width: 100%;
+	height: 100vh;
+	background: url("https://taxischiphol-airport.com/3544508.jpg");
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 20px;
+	margin-bottom: 0px; 
+}
+
+#icon {
+	font-size: 50px;
+	padding-left: 85px;
+}
+
+.display {
+	font-size: 30px;
+	
+}
+
+footer {
+	background-color: lightgray;
+	height: 90px;
+	padding-top: 30px;
+}
+
+#icon1 {
+	padding-left: 40px;
+	font-size: 50px;
+}
+
+
+.display1 {
+	font-size: 30px;
+	
+	padding-left: 45px;
+}
